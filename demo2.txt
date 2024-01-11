@@ -1,3 +1,6 @@
 Commit to main by admin, collaborator can start with this commit on a new file and a new branch
 
 “commit 1 to colab-br2 by collaborator”
+
+“Commit 2 to colab-br2 by collaborator,
+admin should take a look at this before going ahead”,
