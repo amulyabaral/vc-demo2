@@ -7,3 +7,6 @@ admin should take a look at this before going ahead”,
 
 “commit 3 to collab-br2 by collaborator,
 now collaborator commits this change together with changes in demo.txt”,
+
+“commit 3 to collab-br2 by collaborator,
+now collaborator commits this change together with changes in demo.txt”,
