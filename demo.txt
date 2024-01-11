@@ -14,5 +14,9 @@ teste22222
 Commit to main by admin, collaborator can start with this commit on a new file and a new branch
 commit 4 to main by admin, to be stashed
 collaborator needs to pull this before going forward
+<<<<<<< HEAD
 
 commit 3 to colab-br2 by collaborator, might in conflict
+=======
+Commit 5 to main by admin, to be integrated by collaborator before pull request”
+>>>>>>> main
