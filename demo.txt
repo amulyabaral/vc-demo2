@@ -12,3 +12,5 @@ Commit 2 to admin-br by admin
 
 teste22222
 Commit to main by admin, collaborator can start with this commit on a new file and a new branch
+commit 4 to main by admin, to be stashed
+collaborator needs to pull this before going forward
